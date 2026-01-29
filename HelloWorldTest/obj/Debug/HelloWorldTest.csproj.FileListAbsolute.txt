@@ -1,0 +1,7 @@
+C:\Users\shaun\git\CSharp\HelloWorldTest\bin\Debug\HelloWorldTest.exe.config
+C:\Users\shaun\git\CSharp\HelloWorldTest\bin\Debug\HelloWorldTest.exe
+C:\Users\shaun\git\CSharp\HelloWorldTest\bin\Debug\HelloWorldTest.pdb
+C:\Users\shaun\git\CSharp\HelloWorldTest\obj\Debug\HelloWorldTest.csproj.AssemblyReference.cache
+C:\Users\shaun\git\CSharp\HelloWorldTest\obj\Debug\HelloWorldTest.csproj.CoreCompileInputs.cache
+C:\Users\shaun\git\CSharp\HelloWorldTest\obj\Debug\HelloWorldTest.exe
+C:\Users\shaun\git\CSharp\HelloWorldTest\obj\Debug\HelloWorldTest.pdb
