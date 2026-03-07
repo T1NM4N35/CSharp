@@ -5,3 +5,4 @@ C:\Users\shaun\git\CSharp\HelloWorldTest\obj\Debug\HelloWorldTest.csproj.Assembl
 C:\Users\shaun\git\CSharp\HelloWorldTest\obj\Debug\HelloWorldTest.csproj.CoreCompileInputs.cache
 C:\Users\shaun\git\CSharp\HelloWorldTest\obj\Debug\HelloWorldTest.exe
 C:\Users\shaun\git\CSharp\HelloWorldTest\obj\Debug\HelloWorldTest.pdb
+
