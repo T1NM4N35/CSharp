@@ -1,0 +1,8 @@
+C:\Users\shaun\git\CSharp\IDKTBH\IDKTBH\bin\Debug\IDKTBH.exe.config
+C:\Users\shaun\git\CSharp\IDKTBH\IDKTBH\bin\Debug\IDKTBH.exe
+C:\Users\shaun\git\CSharp\IDKTBH\IDKTBH\bin\Debug\IDKTBH.pdb
+C:\Users\shaun\git\CSharp\IDKTBH\IDKTBH\obj\Debug\IDKTBH.csproj.AssemblyReference.cache
+C:\Users\shaun\git\CSharp\IDKTBH\IDKTBH\obj\Debug\IDKTBH.csproj.CoreCompileInputs.cache
+C:\Users\shaun\git\CSharp\IDKTBH\IDKTBH\obj\Debug\IDKTBH.exe
+C:\Users\shaun\git\CSharp\IDKTBH\IDKTBH\obj\Debug\IDKTBH.pdb
+C:\Users\shaun\git\CSharp\IDKTBH\IDKTBH\obj\Debug\IDKTBH.exe.config

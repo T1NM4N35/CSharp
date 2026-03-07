@@ -1,0 +1,8 @@
+C:\Users\shaun\git\CSharp\PlayingWithVariables\obj\Debug\PlayingWithVariables.csproj.AssemblyReference.cache
+C:\Users\shaun\git\CSharp\PlayingWithVariables\obj\Debug\PlayingWithVariables.csproj.CoreCompileInputs.cache
+C:\Users\shaun\git\CSharp\PlayingWithVariables\bin\Debug\PlayingWithVariables.exe.config
+C:\Users\shaun\git\CSharp\PlayingWithVariables\bin\Debug\PlayingWithVariables.exe
+C:\Users\shaun\git\CSharp\PlayingWithVariables\bin\Debug\PlayingWithVariables.pdb
+C:\Users\shaun\git\CSharp\PlayingWithVariables\obj\Debug\PlayingWithVariables.exe
+C:\Users\shaun\git\CSharp\PlayingWithVariables\obj\Debug\PlayingWithVariables.pdb
+C:\Users\shaun\git\CSharp\PlayingWithVariables\obj\Debug\PlayingWithVariables.exe.config
