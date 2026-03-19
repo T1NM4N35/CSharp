@@ -1,0 +1,8 @@
+C:\Users\shaun\git\CSharp\C#Class\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\shaun\git\CSharp\C#Class\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\shaun\git\CSharp\C#Class\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\shaun\git\CSharp\C#Class\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\shaun\git\CSharp\C#Class\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\shaun\git\CSharp\C#Class\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\shaun\git\CSharp\C#Class\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\shaun\git\CSharp\C#Class\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config

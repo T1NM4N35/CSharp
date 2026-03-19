@@ -1,0 +1,8 @@
+C:\Users\shaun\git\CSharp\BankAccounts\obj\Debug\BankAccounts.csproj.AssemblyReference.cache
+C:\Users\shaun\git\CSharp\BankAccounts\obj\Debug\BankAccounts.csproj.CoreCompileInputs.cache
+C:\Users\shaun\git\CSharp\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\shaun\git\CSharp\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\shaun\git\CSharp\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\shaun\git\CSharp\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\shaun\git\CSharp\BankAccounts\obj\Debug\BankAccounts.pdb
+C:\Users\shaun\git\CSharp\BankAccounts\obj\Debug\BankAccounts.exe.config
