@@ -71,7 +71,7 @@ namespace BankAccounts
                         break;
                     default:
                         Console.WriteLine("Invalid choice. Please try again.");
-                        break;
+                        break; // This break is not strictly necessary, but it's good practice to include it for clarity and to prevent fall-through in case more cases are added in the future.
                 }
             }
         }
