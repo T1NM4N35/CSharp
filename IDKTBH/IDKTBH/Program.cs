@@ -1,20 +1,53 @@
 ﻿using System;
-using System.Linq;
 
-namespace MyApplication
+class Dog
 {
-    class Weapons
-    {
-        public string damage = "10";
-        public string distance = "5ft";
-        public string TOD = "peircing";
+    public string name;
+    public int age;
 
-        static void Main(string[] args)
+    public void Bark()
+    {
+        Console.WriteLine(name + " says woof!");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        // FIRST DOG
+        Console.WriteLine("Enter first dog name:");
+        string name1 = Console.ReadLine();
+
+        Console.WriteLine("Enter first dog age:");
+        int age1;
+        while (!int.TryParse(Console.ReadLine(), out age1))
         {
-            Weapons Sword = new Weapons();
-            Weapons Javelin = new Weapons();
-            Console.WriteLine(Sword.damage + " " + Sword.distance + " " + Sword.TOD);
-            Console.WriteLine(Javelin.distance);
+            Console.WriteLine("Please enter a valid number:");
         }
+
+        Dog dog1 = new Dog();
+        dog1.name = name1;
+        dog1.age = age1;
+
+        // SECOND DOG
+        Console.WriteLine("\nEnter second dog name:");
+        string name2 = Console.ReadLine();
+
+        Console.WriteLine("Enter second dog age:");
+        int age2;
+        while (!int.TryParse(Console.ReadLine(), out age2))
+        {
+            Console.WriteLine("Please enter a valid number:");
+        }
+
+        Dog dog2 = new Dog();
+        dog2.name = name2;
+        dog2.age = age2;
+
+        // OUTPUT
+        Console.WriteLine("\n--- Dogs Barking ---");
+        dog1.Bark();
+        dog2.Bark();
     }
 }

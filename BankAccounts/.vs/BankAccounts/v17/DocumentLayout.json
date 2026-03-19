@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shaun\\git\\CSharp\\IDKTBH\\IDKTBH\\",
+  "WorkspaceRootPath": "C:\\Users\\shaun\\git\\CSharp\\BankAccounts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97841277-F05F-4077-BDA9-D83A697F86EF}|IDKTBH.csproj|c:\\users\\shaun\\git\\csharp\\idktbh\\idktbh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97841277-F05F-4077-BDA9-D83A697F86EF}|IDKTBH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D4D1B09-0536-44A5-A89F-3FA985AB102F}|BankAccounts.csproj|c:\\users\\shaun\\git\\csharp\\bankaccounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4D1B09-0536-44A5-A89F-3FA985AB102F}|BankAccounts.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,13 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shaun\\git\\CSharp\\IDKTBH\\IDKTBH\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaun\\git\\CSharp\\BankAccounts\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\shaun\\git\\CSharp\\IDKTBH\\IDKTBH\\Program.cs",
+              "ToolTip": "C:\\Users\\shaun\\git\\CSharp\\BankAccounts\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T01:36:58.831Z",
+              "WhenOpened": "2026-03-19T17:43:00.723Z",
               "EditorCaption": ""
             }
           ]
