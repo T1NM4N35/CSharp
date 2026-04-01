@@ -39,12 +39,23 @@ namespace ConsoleApp1
 
                 // WAIT FOR INPUT
                 ConsoleKeyInfo key = Console.ReadKey(true);
+                
+                // 1. Calculate the DESIRED next position
+                int nextX = playerX;
+                int nextY = playerY;
 
-                // LOGIC: Move based on key
-                if (key.Key == ConsoleKey.W) playerY--;
-                if (key.Key == ConsoleKey.S) playerY++;
-                if (key.Key == ConsoleKey.A) playerX--;
-                if (key.Key == ConsoleKey.D) playerX++;
+                if (key.Key == ConsoleKey.W) nextY--;
+                if (key.Key == ConsoleKey.S) nextY++;
+                if (key.Key == ConsoleKey.A) nextX--;
+                if (key.Key == ConsoleKey.D) nextX++;
+
+                // 2. COLLISION CHECK: Is the next spot NOT a wall?
+                // map[y][x] corresponds to Row then Column
+                if (map[nextY][nextX] != '#')
+                {
+                    playerX = nextX;
+                    playerY = nextY;
+                }
 
                 // Press Escape to quit
                 if (key.Key == ConsoleKey.Escape) running = false;
