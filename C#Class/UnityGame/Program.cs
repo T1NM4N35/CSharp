@@ -7,7 +7,8 @@ namespace ConsoleApp1
 {
     internal class Program
     {
-        private static string coins;
+        // Change from string to int and initialize to 0
+        private static int coins = 0;
 
         static void Main(string[] args)
         {
@@ -49,7 +50,7 @@ namespace ConsoleApp1
                 "#...#.#.###.#.......#.###.#.#.#",
                 "#####.#...#.#.......#.#...#.#.#",
                 "#.....###.#.#.......#.#.###.#.#",
-                "#.#######.#.#...$...#.#.#...#.#",
+                "#.#######.#.#.......#.#.#...#.#",
                 "#.#.....#.#.#########.#.#.###.#",
                 "#...###.0.#...........#...0.../",
                 "###############################"
