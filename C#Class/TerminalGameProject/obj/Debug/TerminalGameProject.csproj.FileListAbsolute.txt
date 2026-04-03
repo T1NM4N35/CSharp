@@ -1,0 +1,2 @@
+C:\Users\shaun\git\CSharp\C#Class\TerminalGameProject\obj\Debug\TerminalGameProject.csproj.AssemblyReference.cache
+C:\Users\shaun\git\CSharp\C#Class\TerminalGameProject\obj\Debug\TerminalGameProject.csproj.CoreCompileInputs.cache
